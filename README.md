@@ -6,7 +6,7 @@ To implement 4 bit synchronous up counter and validate functionality.
 
 **SOFTWARE REQUIRED:**
 
-Quartus prime
+Quartus prime.
 
 **THEORY**
 
