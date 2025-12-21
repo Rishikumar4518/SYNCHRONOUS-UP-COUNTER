@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To implement 4 bit synchronous up counter and validate functionality.
+To implement 4 bit synchronous up counter and validate functionality.  
 
 **SOFTWARE REQUIRED:**
 
